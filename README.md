@@ -1,5 +1,4 @@
-enpm818-final-phase-6
-This is Team 1 submission for phase 6 of the final project in ENPM818N.
+# enpm818-final-phase-6
 
 Deliverables
  1. A fully functional CI/CD pipeline automating build, test, and deployment.
